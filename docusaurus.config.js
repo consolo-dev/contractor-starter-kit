@@ -15,6 +15,8 @@ const config = {
   favicon: 'img/Consolo.svg',
   organizationName: 'consolo-dev', // Usually your GitHub org/user name.
   projectName: 'contractor-starter-kit', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
 
   plugins: [
