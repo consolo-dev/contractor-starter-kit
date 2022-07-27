@@ -2,6 +2,7 @@
 sidebar_position: 1
 id: quick-start
 title: Get Started
+slug: /
 ---
 
 Interested in contracting on top of your full-time job? If you haven't already, check out our [blog](/blog) on how you can do so. 

@@ -124,7 +124,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/quick-start',
+            to: '/docs',
             position: 'left',
             label: 'Quick Start',
           },
@@ -145,7 +145,7 @@ const config = {
             items: [
               {
                 label: 'Get Started',
-                to: '/docs/quick-start',
+                to: '/docs',
               },
             ],
           },
