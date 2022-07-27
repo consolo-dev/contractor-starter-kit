@@ -17,6 +17,8 @@ We received a list of the favorite tools that other contractors wanted to share.
 
 - [Monday.com](https://monday.com) - Free to 2 people (you and a client). Lots of templates for project managment and tracking. 
 
+- [Airtable](https://airtable.com) - Excel on steroids. Generous free plan, ability to create forms and automation. Can be used for project status, time tracking, etc. Sample Airtable project [here](https://www.airtable.com/universe/expQ3YexoxlERglJO/path-of-the-freelancer-dashboard).
+
 #### Contracts and Invoices
 
 - [Consolo](/docs/contracts/hourly.mdx) - Use our free Markdown templates for contracts and invoices. Check out [md2pdf](https://md2pdf.netlify.app/) to convert markdown to a PDF. 

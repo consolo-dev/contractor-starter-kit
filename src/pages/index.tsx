@@ -94,6 +94,7 @@
        <h2>
          <Translate>Main features</Translate>
        </h2>
+       <p></p>
        <div className="row margin-bottom--lg">
          {firstRow.map((feature, idx) => (
            <Feature feature={feature} key={idx} />
