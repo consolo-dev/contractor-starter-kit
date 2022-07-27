@@ -15,7 +15,7 @@ We received a list of the favorite tools that other contractors wanted to share.
 
 - [Slack](https://slack.com) - Generous free plan, can invite clients to a channel for the project. 
 
-- [Monday.com](https//monday.com) - Free to 2 people (you and a client). Lots of templates for project managment and tracking. 
+- [Monday.com](https://monday.com) - Free to 2 people (you and a client). Lots of templates for project managment and tracking. 
 
 #### Contracts and Invoices
 
