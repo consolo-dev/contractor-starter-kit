@@ -9,7 +9,7 @@ const config = {
   title: 'Consolo',
   tagline: 'Contractor Starter Kit',
   url: 'http://consolo.dev',
-  baseUrl: '/',
+  baseUrl: '/contractor-starter-kit/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/Consolo.svg',
