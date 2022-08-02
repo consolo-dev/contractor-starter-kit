@@ -28,8 +28,8 @@
              alt={translate({message: 'Consolo Superhero'})}
              className={styles.heroLogo}
              src={useBaseUrl('/img/undraw_superhero.svg')}
-             width="500"
-             height="500"
+             width="250"
+             height="250"
            />
            <span
              className={styles.heroTitleTextHtml}
@@ -47,12 +47,13 @@
          </h1>
          <div className={styles.indexCtas}>
            <Link className="button button--primary" to="/docs">
-             Get Started
+             Learn More
            </Link>
-           <Link className="button button--info" href="https://dev.us12.list-manage.com/subscribe?u=e08bc63eba2534c069fdbb91f&id=ad3ecdc097">
-            Sign Up for Updates
+           <Link className="button button--info" href="/form">
+            Get 30 Minutes Free with a Consolo Expert
            </Link>
          </div>
+
        </div>
      </div>
    );
@@ -81,6 +82,9 @@
        />
        <h3 className={clsx(styles.featureHeading)}>{feature.title}</h3>
        <p className="padding-horiz--md">{feature.text}</p>
+       <div className="button button--secondary button--block">
+          <Link to={feature.to}>Learn More</Link>
+        </div>
      </div>
    );
  }
@@ -92,7 +96,7 @@
    return (
      <div className="container text--center">
        <h2>
-         <Translate>Main features</Translate>
+         <Translate>Features</Translate>
        </h2>
        <p></p>
        <div className="row margin-bottom--lg">

@@ -16,6 +16,7 @@
      height: number;
    };
    text: JSX.Element;
+   to?: string;
  };
  
  const FEATURES: FeatureItem[] = [
@@ -34,6 +35,7 @@
          Use our templates for contracts and invoices to make sure you are protected in your contracting engagements. 
        </Translate>
      ),
+     to: '/docs/contracts/hourly',
    },
    {
      title: translate({
@@ -50,6 +52,7 @@
          Get tool recommendations from other contractors use in their agencies (and wish they knew when they started).
        </Translate>
      ),
+     to: 'docs/tools',
    },
    {
     title: translate({
@@ -66,6 +69,7 @@
         Get tool recommendations from other contractors use in their agencies (and wish they knew when they started).
       </Translate>
     ),
+    to: 'docs/taxes',
   },
   {
     title: translate({
@@ -82,6 +86,7 @@
         Make sure you aren't undercharging for your services. Learn how much you need to make to go full-time. 
       </Translate>
     ),
+    to: 'docs/rate',
   },
   {
     title: translate({
@@ -95,9 +100,10 @@
     },
     text: (
       <Translate id="homepage.features.built-using-react.text">
-        Contribute your own experiences and suggestions to our repo. 
+        Contribute your own experiences and suggestions to our Github repo in the form of pull requests or issues.
       </Translate>
     ),
+    to: 'github.com/consolo-dev/contractor-starter-kit',
   },
  ];
  

@@ -101,11 +101,12 @@
   }
   
   .heroLogo {
+    justify-content: center;
+      margin-top: 2rem;
     animation-duration: 2s;
     animation-name: jack-in-the-box;
     float: right;
     margin: auto;
-    height: auto;
   }
   
   .indexCtas {
