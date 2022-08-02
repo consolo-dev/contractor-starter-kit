@@ -1,14 +1,14 @@
 {
-    "position": 2,
-    "label": "Contract Templates",
-    "collapsible": true,
-    "collapsed": false,
-    "className": "red",
-    "link": {
-      "type": "generated-index",
-      "title": "Contracts"
-    },
-    "customProps": {
-      "description": "Sample Contracts"
-    }
+  "position": 2,
+  "label": "Contract Templates",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Contracts"
+  },
+  "customProps": {
+    "description": "Sample Contracts"
   }
+}
